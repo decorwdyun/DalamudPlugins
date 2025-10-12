@@ -152,7 +152,7 @@
     ],
     "InternalName": "RotationSolver",
     "AssemblyVersion": "7.3.5.3",
-    "Changelog": "- 先回退版本到 7.3.1.28，等国服 7.35 再同步更新",
+    "Changelog": "- 临时回退版本到 7.3.1.28（用户直接更新即可），等国服 7.35 再同步上游",
     "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
     "ApplicableVersion": "any",
