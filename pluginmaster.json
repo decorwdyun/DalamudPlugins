@@ -151,7 +151,7 @@
       "jobs"
     ],
     "InternalName": "RotationSolver",
-    "AssemblyVersion": "7.3.1.28",
+    "AssemblyVersion": "7.3.5.3",
     "Changelog": "- 先回退版本到 7.3.1.28，等国服 7.35 再同步更新",
     "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
