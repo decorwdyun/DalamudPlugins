@@ -151,16 +151,16 @@
       "jobs"
     ],
     "InternalName": "RotationSolver",
-    "AssemblyVersion": "7.3.5.2",
-    "Changelog": "- 优化翻译 & 同步上游更新",
+    "AssemblyVersion": "7.3.1.28",
+    "Changelog": "- 先回退版本到 7.3.1.28，等国服 7.35 再同步更新",
     "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.5.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.1.28/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.5.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.1.28/latest.zip",
     "DownloadCount": 1658945,
     "LastUpdate": "1760077553"
   }
