@@ -13,19 +13,19 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "- 季节活动：守护天节 2025 Vol.2 — 人与魔物共欢腾",
+    "Changelog": "- bug fixes \n\n- 季节活动：守护天节 2025 Vol.2 — 人与魔物共欢腾",
     "InternalName": "Questionable",
-    "AssemblyVersion": "6.8.23.0",
+    "AssemblyVersion": "6.8.24.0",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/6.8.23.0/Questionable-6.8.23.0.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/6.8.24.0/Questionable-6.8.24.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/6.8.23.0/Questionable-6.8.23.0.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/6.8.24.0/Questionable-6.8.24.0.zip",
     "DownloadCount": 98451,
-    "LastUpdate": "1761289575"
+    "LastUpdate": "1761373169"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
