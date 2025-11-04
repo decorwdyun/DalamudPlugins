@@ -7,25 +7,24 @@
     "Tags": [
       "qst",
       "quests",
-      "msq",
       "Questionable",
       "任务",
       "自动",
       "主线任务"
     ],
-    "Changelog": "- bug fixes \n\n- 季节活动：守护天节 2025 Vol.2 — 人与魔物共欢腾",
+    "Changelog": "- 同步上游",
     "InternalName": "Questionable",
-    "AssemblyVersion": "6.8.24.0",
+    "AssemblyVersion": "6.17.2.0",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/6.8.24.0/Questionable-6.8.24.0.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/6.17.2.0/Questionable-6.17.2.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/6.8.24.0/Questionable-6.8.24.0.zip",
-    "DownloadCount": 98451,
-    "LastUpdate": "1761373169"
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/6.17.2.0/Questionable-6.17.2.0.zip",
+    "DownloadCount": 125184,
+    "LastUpdate": "1762248486"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
@@ -151,17 +150,17 @@
       "jobs"
     ],
     "InternalName": "RotationSolver",
-    "AssemblyVersion": "7.3.5.3",
-    "Changelog": "- 临时回退版本到 7.3.1.28（用户直接更新即可），等国服 7.35 再同步上游",
+    "AssemblyVersion": "7.3.5.21",
+    "Changelog": "- 同步上游",
     "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.1.28/latest.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.5.21/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.1.28/latest.zip",
-    "DownloadCount": 1658945,
-    "LastUpdate": "1760077553"
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.5.21/latest.zip",
+    "DownloadCount": 1862521,
+    "LastUpdate": "1762248486"
   }
 ]
