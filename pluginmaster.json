@@ -93,12 +93,11 @@
       "搞子"
     ],
     "DalamudApiLevel": 13,
-    "Changelog": "- API 13 fixes.",
-    "LastUpdate": 1758009528,
+    "LastUpdate": 1762256452,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.2/latest.zip",
-    "AssemblyVersion": "1.2.0.2"
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.3/latest.zip",
+    "AssemblyVersion": "1.2.0.3"
   },
   {
     "Author": "Ottermandias, decorwdyun(汉化)",
