@@ -12,7 +12,7 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "- 同步上游（应该是补齐了新蛮族）",
+    "Changelog": "- 同步上游（补齐了新蛮族）\n\n- BTW 上游最近添加了和 NPC 交互时会强制纠正摄像机面向的功能（只是面向变了，应该是没有瞬移微调坐标的功能）",
     "InternalName": "Questionable",
     "AssemblyVersion": "6.19.6.0",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
