@@ -149,16 +149,16 @@
       "jobs"
     ],
     "InternalName": "RotationSolver",
-    "AssemblyVersion": "7.3.5.21",
-    "Changelog": "- 同步上游",
+    "AssemblyVersion": "7.3.5.23",
+    "Changelog": "- 同步上游优化深层迷宫行为 \n\n- Corrected ranged on Shackled status effect management by @LTS-FFXIV in #1059\n\n-Various fixes for Deep Dungeon behaviour, RDM options, sustained pot usage, etc by @LTS-FFXIV in #1057",
     "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN",
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.5.21/latest.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.5.23/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.5.21/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.5.23/latest.zip",
     "DownloadCount": 1862521,
     "LastUpdate": "1762248486"
   }
