@@ -1,7 +1,7 @@
 [
   {
     "Name": "Questionable",
-    "Author": "Liza Carvelli, decorwdyun(汉化)",
+    "Author": "Liza Carvelli, decorwdyun(汉化), various contributor",
     "Punchline": "一个小小的的自动任务插件。",
     "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
     "Tags": [
@@ -78,7 +78,7 @@
     "Author": "decorwdyun",
     "Name": "PFRadar",
     "InternalName": "PFRadar",
-    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持特殊显示黑名单玩家 & FFLogs 战力查询，免费插件，请勿倒卖",
+    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
     "Description": "CN Only! 稿子退散（爬）！",
     "ApplicableVersion": "any",
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
@@ -92,12 +92,13 @@
       "稿子",
       "搞子"
     ],
+    "Changelog": "- 优化玩家右键菜单的显示逻辑，现在在绝大部分不需要情况下都不会显示多余的按钮了。\n\n - Optimized the display logic of the player context menu — extra buttons will no longer appear in most cases where they aren’t needed.",
     "DalamudApiLevel": 13,
-    "LastUpdate": 1762256452,
-    "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.3/latest.zip",
-    "AssemblyVersion": "1.2.0.3"
+    "LastUpdate": 1762625045,
+    "DownloadCount": 85415,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.4/latest.zip",
+    "AssemblyVersion": "1.2.0.4"
   },
   {
     "Author": "Ottermandias, decorwdyun(汉化)",
