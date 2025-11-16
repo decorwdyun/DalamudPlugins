@@ -74,7 +74,7 @@
     "DalamudApiLevel": 13,
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/FuckDalamudCN/icon.png"
   },
-    {
+  {
     "Author": "decorwdyun",
     "Name": "PFRadar",
     "InternalName": "PFRadar",
@@ -162,5 +162,24 @@
     "DownloadLinkUpdate": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.3.8.2/latest.zip",
     "DownloadCount": 1862521,
     "LastUpdate": "1762248486"
+  },
+  {
+    "Author": "decorwdyun",
+    "Name": "PFClassifier",
+    "InternalName": "PFClassifier",
+    "Punchline": "CN Only! PFRadar 高难招募分类器前置依赖 一键过滤开荒、伐木、老板队、固定队招募，没有任何界面，安装即可",
+    "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFClassifier/icon.png",
+    "Tags": [
+      "PFRadar",
+      "招募",
+      "PFClassifier"
+    ],
+    "DalamudApiLevel": 13,
+    "LastUpdate": 1763290341,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/1.0/latest.zip",
+    "AssemblyVersion": "1.0"
   }
 ]
