@@ -79,11 +79,12 @@
     "Name": "PFRadar",
     "InternalName": "PFRadar",
     "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
-    "Description": "CN Only! 稿子退散（爬）！",
+    "Description": "CN Only! 稿子退散（爬）！\n- 新功能：招募过滤器：一键过滤开荒、伐木、老板队、固定队招募",
     "ApplicableVersion": "any",
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
     "Tags": [
       "PFRadar",
+      "PFClassifier",
       "招募",
       "透视",
       "招募透视",
@@ -92,13 +93,13 @@
       "稿子",
       "搞子"
     ],
-    "Changelog": "- connectivity fixes",
+    "Changelog": "- 快来试试新功能吧（设置里开启）：一键过滤开荒、伐木、老板队、固定队招募\n- connectivity fixes",
     "DalamudApiLevel": 13,
-    "LastUpdate": 1762625045,
+    "LastUpdate": 1763294803,
     "DownloadCount": 105441,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.6/latest.zip",
-    "AssemblyVersion": "1.2.0.6"
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.7/latest.zip",
+    "AssemblyVersion": "1.2.0.7"
   },
   {
     "Author": "Ottermandias, decorwdyun(汉化)",
