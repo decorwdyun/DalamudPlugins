@@ -63,13 +63,13 @@
       "Github加速",
       "加速"
     ],
-    "Changelog": "- API 13",
+    "Changelog": "- Github 裤链加速功能：新增 3 个亚洲区域的反代服务器，同时移除了 2 个已失效的服务器",
     "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
     "LastUpdate": "1758008407",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/1.2.0.0/FuckDalamudCN-1.2.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/1.2.0.0/FuckDalamudCN-1.2.0.0.zip",
-    "AssemblyVersion": "1.2.0.0",
-    "DownloadCount": 48241,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/1.2.1.0/FuckDalamudCN-1.2.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/1.2.1.0/FuckDalamudCN-1.2.1.0.zip",
+    "AssemblyVersion": "1.2.1.0",
+    "DownloadCount": 68511,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/FuckDalamudCN/icon.png"
