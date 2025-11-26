@@ -1,5 +1,32 @@
 [
   {
+    "Author": "decorwdyun",
+    "Name": "PFRadar",
+    "InternalName": "PFRadar",
+    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
+    "Description": "CN Only! 稿子退散（爬）！\n- 新功能：招募过滤器：一键过滤开荒、伐木、老板队、固定队、装甲车招募",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
+    "Tags": [
+      "PFRadar",
+      "PFClassifier",
+      "招募",
+      "透视",
+      "招募透视",
+      "招募过滤",
+      "黑名单",
+      "招募分类",
+      "招募筛选"
+    ],
+    "Changelog": "- 快来试试新功能吧（设置里开启）：一键过滤开荒、伐木、老板队、固定队、广告招募\n- 新增招募分类模型策略选择（置信度）\n- 提前实装装甲车广告过滤",
+    "DalamudApiLevel": 13,
+    "LastUpdate": 1763294803,
+    "DownloadCount": 125414,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.8/latest.zip",
+    "AssemblyVersion": "1.2.0.8"
+  },
+  {
     "Name": "Questionable",
     "Author": "Liza Carvelli, decorwdyun(汉化), various contributor",
     "Punchline": "一个小小的的自动任务插件。",
@@ -75,33 +102,6 @@
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/FuckDalamudCN/icon.png"
   },
   {
-    "Author": "decorwdyun",
-    "Name": "PFRadar",
-    "InternalName": "PFRadar",
-    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
-    "Description": "CN Only! 稿子退散（爬）！\n- 新功能：招募过滤器：一键过滤开荒、伐木、老板队、固定队招募",
-    "ApplicableVersion": "any",
-    "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
-    "Tags": [
-      "PFRadar",
-      "PFClassifier",
-      "招募",
-      "透视",
-      "招募透视",
-      "黑名单",
-      "稿子",
-      "稿子",
-      "搞子"
-    ],
-    "Changelog": "- 快来试试新功能吧（设置里开启）：一键过滤开荒、伐木、老板队、固定队招募\n- connectivity fixes",
-    "DalamudApiLevel": 13,
-    "LastUpdate": 1763294803,
-    "DownloadCount": 105441,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.7/latest.zip",
-    "AssemblyVersion": "1.2.0.7"
-  },
-  {
     "Author": "Ottermandias, decorwdyun(汉化)",
     "Name": "Accountant",
     "InternalName": "Accountant",
@@ -168,8 +168,8 @@
     "Author": "decorwdyun",
     "Name": "PFClassifier",
     "InternalName": "PFClassifier",
-    "Punchline": "CN Only! PFRadar 高难招募分类器前置依赖 一键过滤开荒、伐木、老板队、固定队招募，没有任何界面，安装即可",
-    "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFR 的招募分类功能的话无需安装）",
+    "Punchline": "CN Only! PFRadar 高难招募分类器前置依赖 一键过滤开荒、伐木、老板队、固定队、装甲车广告招募，没有任何界面，安装即可",
+    "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFRadar 的招募分类功能的话无需安装）",
     "ApplicableVersion": "any",
     "Changelog": "- 机器学习模型更新，分类应该更准确了\n\nPFClassifier 会定期使用游戏最新的招募内容扩展数据集进行重新训练\n请及时更新至最新版以保持最优识别率，有问题可在 Github Issue 区进行反馈",
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFClassifier/icon.png",
@@ -180,9 +180,9 @@
     ],
     "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
     "DalamudApiLevel": 13,
-    "LastUpdate": 1763741296,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.2/latest.zip",
-    "AssemblyVersion": "1.1.2"
+    "LastUpdate": 1764135772,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.3/latest.zip",
+    "AssemblyVersion": "1.1.3"
   }
 ]
