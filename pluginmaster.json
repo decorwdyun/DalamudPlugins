@@ -18,13 +18,13 @@
       "招募分类",
       "招募筛选"
     ],
-    "Changelog": "- 快来试试新功能吧（设置里开启）：一键过滤开荒、伐木、老板队、固定队、广告招募\n- 新增招募分类模型策略选择（置信度）\n- 提前实装装甲车广告过滤\n-新增界面主题切换\n- bug fixes",
+    "Changelog": "- 快来试试新功能吧（设置里开启）：一键过滤开荒、伐木、老板队、固定队、广告招募\n- 新增招募分类模型策略选择（置信度）\n- 提前实装装甲车广告过滤",
     "DalamudApiLevel": 13,
     "LastUpdate": 1763294803,
     "DownloadCount": 125414,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.9/latest.zip",
-    "AssemblyVersion": "1.2.0.9"
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.8/latest.zip",
+    "AssemblyVersion": "1.2.0.8"
   },
   {
     "Name": "Questionable",
