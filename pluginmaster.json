@@ -39,18 +39,18 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "- 同步上游近期一揽子更新\n\n- 注意新蛮族需使用最新版 navmesh v0.5.5.0 以上才不会卡墙\n上游近期新增交互时自动校正摄像机方向（人物并没有动，只是视角变了）",
+    "Changelog": "-季节活动：星芒节2025Vol.1——在星芒市场传递温暖\n- 同步上游近期一揽子更新",
     "InternalName": "Questionable",
-    "AssemblyVersion": "6.28.39.0",
+    "AssemblyVersion": "13.32.97.0",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/6.28.39.0/Questionable-6.28.39.0.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/13.32.97.0/Questionable-13.32.97.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/6.28.39.0/Questionable-6.28.39.0.zip",
-    "DownloadCount": 185645,
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/13.32.97.0/Questionable-13.32.97.0.zip",
+    "DownloadCount": 199845,
     "LastUpdate": "1764000171"
   },
   {
