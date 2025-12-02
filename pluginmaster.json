@@ -18,13 +18,13 @@
       "招募分类",
       "招募筛选"
     ],
-    "Changelog": "- 修复一个罕见情况下会出现的 crash 问题",
+    "Changelog": "- 新增当前小队成员 Logs 查询，使用`/pfr logs`\n- 新增字体切换\n- 一堆 UI 优化\n- 招募分类器策略数值调整",
     "DalamudApiLevel": 13,
-    "LastUpdate": 1763294803,
+    "LastUpdate": 1764713348,
     "DownloadCount": 125414,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.11/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.2.0.11/latest.zip",
-    "AssemblyVersion": "1.2.0.11"
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.3.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download//1.3.0.0/latest.zip",
+    "AssemblyVersion": "1.3.0.0"
   },
   {
     "Name": "Questionable",
@@ -180,9 +180,9 @@
     ],
     "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
     "DalamudApiLevel": 13,
-    "LastUpdate": 1764135772,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.4/latest.zip",
-    "AssemblyVersion": "1.1.4"
+    "LastUpdate": 1764713348,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.5/latest.zip",
+    "AssemblyVersion": "1.1.5"
   }
 ]
