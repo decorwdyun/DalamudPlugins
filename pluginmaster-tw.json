@@ -1,0 +1,29 @@
+[
+    {
+    "Name": "Questionable",
+    "Author": "Liza Carvelli, decorwdyun(汉化)",
+    "Punchline": "一個小小的自動解任務外掛。※繁體中文版本暫不提供任何支援，如無法使用請自行使用 API12 進行編譯。",
+    "Description": "一個小型的任務輔助外掛，會在可能的情況下自動幫你解任務。會利用導航功能自動走到所有任務目標點，並盡量自動完成所有步驟。\n\n不是所有任務都有支援，請到 Discord 或 Git 儲存庫查看最新的支援任務清單。\n\n需求外掛：vnavmesh、TextAdvance、Lifestream",
+    "Tags": [
+      "qst",
+      "quests",
+      "Questionable",
+      "任務",
+      "自動",
+      "主線任務"
+    ],
+    "Changelog": "- API 12\n- ※繁體中文版本暫不提供任何支援，如無法使用請自行使用 API12 進行編譯。",
+    "InternalName": "Questionable",
+    "AssemblyVersion": "5.23.3",
+    "RepoUrl": "https://github.com/decorwdyun/Questionable",
+    "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/5.23.3/Questionable-5.23.3.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/5.23.3/Questionable-5.23.3.zip",
+    "DownloadCount": 199845,
+    "LastUpdate": "1764000171"
+  }
+]
