@@ -45,5 +45,23 @@
     "DalamudApiLevel": "12",
     "Changelog": "- API 12\n- ※繁體中文版本暫不提供任何支援，如無法使用請自行使用 API12 進行編譯。",
     "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png"
+  },
+  {
+    "Author": "decorwdyun",
+    "Name": "PFRadar (API 12)",
+    "InternalName": "PFRadar",
+    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询",
+    "Description": "※繁體中文版本暫不提供任何支援",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
+    "Tags": [
+      "PFRadar"
+    ],
+    "DalamudApiLevel": 13,
+    "LastUpdate": 1764713348,
+    "DownloadCount": 135655,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.3.0.1/latest-TC.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download//1.3.0.1/latest-TC.zip",
+    "AssemblyVersion": "1.3.0.1"
   }
 ]
