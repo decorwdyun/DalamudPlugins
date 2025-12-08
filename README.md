@@ -31,8 +31,6 @@ https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.js
   
 **台灣/繁體/TC users**
 
-請暫時先用這個鏈接
-
 ```
-https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster-tw.json
+請暫時先用這個鏈接，非繁中服请勿添加 https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster-tw.json
 ```
