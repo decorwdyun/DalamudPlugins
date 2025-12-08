@@ -29,3 +29,10 @@ https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.js
 | [Accountant CN](https://github.com/decorwdyun/Accountant) | 橙月解限特供 | [Ottermandias](https://github.com/Ottermandias) | [decorwdyun](https://github.com/decorwdyun) | √    |
 
   
+**台灣/繁體/TC users**
+
+請暫時先用這個鏈接
+
+```
+https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster-tw.json
+```
