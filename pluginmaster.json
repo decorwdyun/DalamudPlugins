@@ -63,7 +63,7 @@
       "satisfy",
       "老主顾"
     ],
-    "Changelog": "- 新增支持一键通过 Questionable 完成自动老主顾采集任务",
+    "Changelog": "- 新增支持一键通过 Questionable 完成老主顾采集任务",
     "InternalName": "vsatisfy",
     "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
     "DownloadCount": 56225,
