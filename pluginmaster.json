@@ -63,16 +63,16 @@
       "satisfy",
       "老主顾"
     ],
+    "Changelog": "- 新增支持一键通过 Questionable 完成自动老主顾采集任务",
     "InternalName": "vsatisfy",
     "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
-    "DownloadCount": 46067,
-    "LastUpdate": "1758008346",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/ffxiv_satisfy/releases/download/0.0.0.17/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/ffxiv_satisfy/releases/download/0.0.0.17/latest.zip",
-    "AssemblyVersion": "0.0.0.17",
+    "DownloadCount": 56225,
+    "LastUpdate": "1765376712",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/ffxiv_satisfy/releases/download/0.0.0.20/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/ffxiv_satisfy/releases/download/0.0.0.20/latest.zip",
+    "AssemblyVersion": "0.0.0.20",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "Changelog": "- API 13",
     "IconUrl": "https://s3.puni.sh/media/plugin/58/icon-hffi2ft0zlg.png"
   },
   {
