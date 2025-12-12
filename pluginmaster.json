@@ -18,13 +18,13 @@
       "招募分类",
       "招募筛选"
     ],
-    "Changelog": "- 优化团队副本（灭云） Logs 查询速度",
+    "Changelog": "- 新增自动刷新招募板\n- 再次优化Logs 查询速度（怎么有人灭云伐了 3000+ 把，Api 都加载不出来了）",
     "DalamudApiLevel": 13,
     "LastUpdate": 1765370181,
-    "DownloadCount": 151141,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.3.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.3.0.2/latest.zip",
-    "AssemblyVersion": "1.3.0.2"
+    "DownloadCount": 159855,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.3.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.3.0.3/latest.zip",
+    "AssemblyVersion": "1.3.0.3"
   },
   {
     "Name": "Questionable",
