@@ -18,13 +18,13 @@
       "招募分类",
       "招募筛选"
     ],
-    "Changelog": "- 招募过滤器 兼容招募板扩容到了100条的情况\n- 新增自动刷新招募板\n- 再次优化Logs 查询速度（怎么有人灭云伐了 3000+ 把，Api 都加载不出来了）",
-    "DalamudApiLevel": 13,
+    "Changelog": "- API14 首个版本（遇到任何 Bug 都很正常，会修别急）",
+    "DalamudApiLevel": 14,
     "LastUpdate": 1765370181,
-    "DownloadCount": 159855,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.3.0.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.3.0.7/latest.zip",
-    "AssemblyVersion": "1.3.0.7"
+    "DownloadCount": 165541,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.0/latest.zip",
+    "AssemblyVersion": "1.4.0.0"
   },
   {
     "Name": "Questionable",
