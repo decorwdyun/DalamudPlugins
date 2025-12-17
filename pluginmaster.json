@@ -171,7 +171,7 @@
     "Punchline": "CN Only! PFRadar 高难招募分类器的前置依赖 一键过滤开荒、伐木、老板队、固定队、装甲车广告招募，没有任何界面，安装即可",
     "Description": "CN Only！前置依赖，提供 IPC 供 PFRadar 调用，原理为机器学习分类，可能存在极少量的识别错误\n没有任何界面，安装即可（不使用 PFRadar 的招募分类功能的话无需安装）",
     "ApplicableVersion": "any",
-    "Changelog": "- 使用游戏内近期招募重训模型，分类应该更准确了\n\nPFClassifier 会定期扩展数据集进行重新训练\n请及时更新至最新版以保持最最佳识别率，有问题可在 Github Issue 区进行反馈",
+    "Changelog": "- API14\n- 使用游戏内近期招募重训模型，分类应该更准确了\n\nPFClassifier 会定期扩展数据集进行重新训练\n请及时更新至最新版以保持最最佳识别率，有问题可在 Github Issue 区进行反馈",
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFClassifier/icon.png",
     "Tags": [
       "PFRadar",
@@ -179,11 +179,11 @@
       "PFClassifier"
     ],
     "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-    "DalamudApiLevel": 13,
-    "DownloadCount": 2511,
-    "LastUpdate": 1765370181,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/1.1.7/latest.zip",
-    "AssemblyVersion": "1.1.7"
+    "DalamudApiLevel": 14,
+    "DownloadCount": 3351,
+    "LastUpdate": 1765979983,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/1.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/1.2.0/latest.zip",
+    "AssemblyVersion": "1.2.0"
   }
 ]
