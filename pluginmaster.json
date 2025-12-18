@@ -39,19 +39,19 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "- 季节活动：星芒节2025Vol.1——在星芒市场传递温暖\n- 同步上游近期更新",
+    "Changelog": "- API14 可能很多 bug",
     "InternalName": "Questionable",
-    "AssemblyVersion": "13.32.97.0",
+    "AssemblyVersion": "14.198.0.0",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/13.32.97.0/Questionable-13.32.97.0.zip",
+    "DalamudApiLevel": 14,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.198.0.0/Questionable-14.198.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/13.32.97.0/Questionable-13.32.97.0.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.198.0.0/Questionable-14.198.0.0.zip",
     "DownloadCount": 199845,
-    "LastUpdate": "1764000171"
+    "LastUpdate": "1766078166"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
