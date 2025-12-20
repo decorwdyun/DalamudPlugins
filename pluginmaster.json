@@ -39,19 +39,19 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "注意：API14 尚未完全适配 遇到任何 Bug 都很正常",
+    "Changelog": "- API14临时修复\n注意：API14 尚未完全适配 遇到任何 Bug 都很正常",
     "InternalName": "Questionable",
-    "AssemblyVersion": "14.200.1.0",
+    "AssemblyVersion": "14.200.4.1",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.200.1.0/Questionable-14.200.1.0.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.200.4.1/Questionable-14.200.4.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.200.1.0/Questionable-14.200.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.200.4.1/Questionable-14.200.4.1.zip",
     "DownloadCount": 200511,
-    "LastUpdate": "1766118348"
+    "LastUpdate": "1766212867"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
