@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.js
 
 | 插件名称                                                     | 介绍                                         | 插件作者                                    | 本地化维护                                  | 汉化 |
 | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ---- |
-| [FuckDalamudCN](https://github.com/decorwdyun/FuckDalamudCN) | 解除国服 Dalamud 中不合理的插件封锁，数据收集（Unban） | [decorwdyun](https://github.com/decorwdyun) | [decorwdyun](https://github.com/decorwdyun) | √    |
+| [FastDalamudCN](https://github.com/decorwdyun/FuckDalamudCN) | 卫月第三方库（Github）加载和下载加速服务、主库插件简介翻译 | [decorwdyun](https://github.com/decorwdyun) | [decorwdyun](https://github.com/decorwdyun) | √    |
 | [PFRadar](https://github.com/decorwdyun/PFRadar)| 透视队员招募，无需进队 | [decorwdyun](https://github.com/decorwdyun) | [decorwdyun](https://github.com/decorwdyun) | √    |
 | [PFClassifier](https://github.com/decorwdyun/PFClassifier)| 高难招募分类过滤器 | [decorwdyun](https://github.com/decorwdyun) | [decorwdyun](https://github.com/decorwdyun) | √    |
 | [Questionable](https://github.com/decorwdyun/Questionable)      | QST 一个小小的的全自动跑任务插件。                   | [Liza](https://git.carvel.li/liza)          | [decorwdyun](https://github.com/decorwdyun) | √    |
