@@ -41,7 +41,7 @@
     ],
     "Changelog": "- 修复 API14 任务无法潜水的问题。",
     "InternalName": "Questionable",
-    "AssemblyVersion": "14.200.10.1",
+    "AssemblyVersion": "14.200.10.2",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
