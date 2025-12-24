@@ -5,12 +5,12 @@
 
 #### 仓库地址（任选其中之一即可）：
 
-**加速链接**
+**加速链接 For CN**
 ```
 https://gp.xuolu.com/love.json
 ```
 
-**原始链接**
+**原始链接 Origin**
 
 ```
 https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.json
