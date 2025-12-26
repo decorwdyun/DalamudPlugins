@@ -90,13 +90,13 @@
       "汉化",
       "翻译"
     ],
-    "Changelog": "- 大幅优化直连非 Github 裤链的速度\n- 插件改名为 Fast Dalamud CN\n 注：InternalName 将保留旧名字（无法修改）",
+    "Changelog": "- 修复橙月主库链接变更翻译失效的问题\n- 优化裤链较多的情况下，偶尔会有某一个Github 链接较慢的问题\n- 大幅优化直连非 Github 裤链的速度\n- 插件改名为 Fast Dalamud CN\n 注：InternalName 将保留旧名字（无法修改）",
     "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
     "LastUpdate": "1766573517",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/2.0.0.3/FuckDalamudCN-2.0.0.3.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/2.0.0.3/FuckDalamudCN-2.0.0.3.zip",
-    "AssemblyVersion": "2.0.0.3",
-    "DownloadCount": 102110,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/2.0.0.4/FuckDalamudCN-2.0.0.4.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/2.0.0.4/FuckDalamudCN-2.0.0.4.zip",
+    "AssemblyVersion": "2.0.0.4",
+    "DownloadCount": 110142,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/FastDalamudCN/icon.png"
