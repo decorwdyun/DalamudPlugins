@@ -45,5 +45,36 @@
     "DalamudApiLevel": "12",
     "Changelog": "- API 12\n- ※繁體中文版本暫不提供任何支援，如無法使用請自行使用 API12 進行編譯。",
     "IconUrl": "https://s3.puni.sh/media/plugin/48/icon-ylwecng2h0n.png"
+  },
+  {
+    "Name": "Rotation Solver Reborn",
+    "Author": "The Combat Reborn Team, decorwdyun(汉化)",
+    "Punchline": "RSR 自动输出/循环（粗制滥造汉化版） ※繁體中文版本暫不提供任何支援",
+    "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用\n\n添加了库但是搜不到请先下载安装同库的 Unban 插件 (FuckDalamudCN)",
+    "Tags": [
+      "combat",
+      "rotation",
+      "自动",
+      "自动循环",
+      "技能",
+      "rsr",
+      "RSR"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "InternalName": "RotationSolver",
+    "AssemblyVersion": "7.2.5.127",
+    "Changelog": "- API 12\n- ※繁體中文版本暫不提供任何支援，如無法使用請自行使用 API12 進行編譯。",
+    "RepoUrl": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/tag/7.2.5.127",
+    "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RotationSolverReborn/main/Images/Logo.png",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.2.5.127/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/RotationSolverRebornCN/releases/download/7.2.5.127/latest.zip",
+    "DownloadCount": 1966210,
+    "LastUpdate": "1766925415"
   }
 ]
