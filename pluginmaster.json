@@ -39,19 +39,19 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "- 修复 API14 任务无法潜水的问题。",
+    "Changelog": "- 同步上游",
     "InternalName": "Questionable",
-    "AssemblyVersion": "14.200.10.2",
+    "AssemblyVersion": "14.201.0.0",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.200.10.2/Questionable-14.200.10.2.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.201.0.0-cn/Questionable-14.202.0.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.200.10.2/Questionable-14.200.10.2.zip",
-    "DownloadCount": 206471,
-    "LastUpdate": "1766509047"
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.201.0.0-cn/Questionable-14.202.0.0.zip",
+    "DownloadCount": 215121,
+    "LastUpdate": "1766996744"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
