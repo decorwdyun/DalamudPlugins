@@ -18,13 +18,13 @@
       "招募分类",
       "招募筛选"
     ],
-    "Changelog": "- 支持新极神&新幻巧 Logs 查询\n- Dalamud 没有推出正式版前遇到任何 Bug 都很正常",
+    "Changelog": "- 支持 M8-12S\n 祝大家开荒顺利！",
     "DalamudApiLevel": 14,
-    "LastUpdate": 1766034747,
-    "DownloadCount": 167441,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.1/latest.zip",
-    "AssemblyVersion": "1.4.0.1"
+    "LastUpdate": 1767581048,
+    "DownloadCount": 183544,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.2/latest.zip",
+    "AssemblyVersion": "1.4.0.2"
   },
   {
     "Name": "Questionable",
