@@ -15,13 +15,13 @@
       "招募过滤",
       "黑名单"
     ],
-    "Changelog": "- Sumemo 支持查询当前小队，使用: `/pfr smm` 可快速打开查询界面",
+    "Changelog": "- Sumemo M12S 显示优化\n- Sumemo 支持查询当前小队，使用: `/pfr smm` 可快速打开查询界面",
     "DalamudApiLevel": 14,
     "LastUpdate": 1767581048,
     "DownloadCount": 195144,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.6/latest.zip",
-    "AssemblyVersion": "1.4.0.6"
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.7/latest.zip",
+    "AssemblyVersion": "1.4.0.7"
   },
   {
     "Name": "Questionable",
