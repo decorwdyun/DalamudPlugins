@@ -10,21 +10,18 @@
     "Tags": [
       "PFRadar",
       "PFClassifier",
+      "sumemo",
       "招募",
-      "透视",
-      "招募透视",
       "招募过滤",
-      "黑名单",
-      "招募分类",
-      "招募筛选"
+      "黑名单"
     ],
-    "Changelog": "- Sumemo UI 配色调整",
+    "Changelog": "- Sumemo 支持查询当前小队，使用: `/pfr smm` 可快速打开查询界面",
     "DalamudApiLevel": 14,
     "LastUpdate": 1767581048,
-    "DownloadCount": 187155,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.5/latest.zip",
-    "AssemblyVersion": "1.4.0.5"
+    "DownloadCount": 195144,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.6/latest.zip",
+    "AssemblyVersion": "1.4.0.6"
   },
   {
     "Name": "Questionable",
