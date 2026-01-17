@@ -15,13 +15,13 @@
       "招募过滤",
       "黑名单"
     ],
-    "Changelog": "- Sumemo 新 API适配\n- 新功能：增加扩容招募板单页显示数量至100（默认关闭）",
+    "Changelog": "- 新增功能：智能招募过滤\n- 补上遗漏的招募自动刷新开关",
     "DalamudApiLevel": 14,
     "LastUpdate": 1767581048,
     "DownloadCount": 195144,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.11/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.11/latest.zip",
-    "AssemblyVersion": "1.4.0.11"
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.12/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.12/latest.zip",
+    "AssemblyVersion": "1.4.0.12"
   },
   {
     "Name": "Questionable",
