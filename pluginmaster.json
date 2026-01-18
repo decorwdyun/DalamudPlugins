@@ -36,19 +36,19 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "[自动构建]\n- 降神节 2026 P2",
+    "Changelog": "[自动构建]\n- 同步上游近期更新",
     "InternalName": "Questionable",
-    "AssemblyVersion": "14.204.0.0",
+    "AssemblyVersion": "14.205.9.0",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.204.0.0-cn/Questionable-14.204.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.205.9.0-cn/Questionable-14.205.9.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.204.0.0-cn/Questionable-14.204.0.0.zip",
-    "DownloadCount": 220415,
-    "LastUpdate": "1767293151"
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.205.9.0-cn/Questionable-14.205.9.0.zip",
+    "DownloadCount": 235614,
+    "LastUpdate": "1768755808"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
