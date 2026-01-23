@@ -15,13 +15,13 @@
       "招募过滤",
       "黑名单"
     ],
-    "Changelog": "- 新增功能：智能招募过滤\n- 补上遗漏的招募自动刷新开关",
+    "Changelog": "- Sumemo 相关功能优化",
     "DalamudApiLevel": 14,
     "LastUpdate": 1767581048,
-    "DownloadCount": 195144,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.12/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.12/latest.zip",
-    "AssemblyVersion": "1.4.0.12"
+    "DownloadCount": 208154,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.13/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.13/latest.zip",
+    "AssemblyVersion": "1.4.0.13"
   },
   {
     "Name": "Questionable",
