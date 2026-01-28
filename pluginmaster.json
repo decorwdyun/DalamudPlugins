@@ -38,17 +38,17 @@
     ],
     "Changelog": "[自动构建]\n- 同步上游近期更新",
     "InternalName": "Questionable",
-    "AssemblyVersion": "14.205.9.0",
+    "AssemblyVersion": "14.205.19.0",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.205.9.0-cn/Questionable-14.205.9.0.zip",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.205.19.0-cn/Questionable-14.205.19.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.205.9.0-cn/Questionable-14.205.9.0.zip",
-    "DownloadCount": 235614,
-    "LastUpdate": "1768755808"
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.205.19.0-cn/Questionable-14.205.19.0.zip",
+    "DownloadCount": 265447,
+    "LastUpdate": "1769589205"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
