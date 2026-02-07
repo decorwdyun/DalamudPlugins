@@ -15,6 +15,7 @@
       "招募过滤",
       "黑名单"
     ],
+    "Changelog": "修复可能的 carsh 问题",
     "DalamudApiLevel": 14,
     "LastUpdate": 1770446284,
     "DownloadCount": 238511,
