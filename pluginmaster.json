@@ -16,11 +16,11 @@
       "黑名单"
     ],
     "DalamudApiLevel": 14,
-    "LastUpdate": 1767581048,
-    "DownloadCount": 208154,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.16/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.16/latest.zip",
-    "AssemblyVersion": "1.4.0.16"
+    "LastUpdate": 1770446284,
+    "DownloadCount": 238511,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.17/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.17/latest.zip",
+    "AssemblyVersion": "1.4.0.17"
   },
   {
     "Name": "Questionable",
@@ -176,10 +176,10 @@
     ],
     "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
     "DalamudApiLevel": 14,
-    "DownloadCount": 21441,
-    "LastUpdate": 1770289415,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/v1.2.19/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/v1.2.19/latest.zip",
-    "AssemblyVersion": "1.2.19"
+    "DownloadCount": 22911,
+    "LastUpdate": 1770446284,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/v1.2.20/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/v1.2.20/latest.zip",
+    "AssemblyVersion": "1.2.20"
   }
 ]
