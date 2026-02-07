@@ -36,19 +36,19 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "[自动构建]\n- 恋人节 2026 （不推荐使用，部分步骤需要手动，副本建议组队进入）",
+    "Changelog": "[自动构建]\n- 蛮族日常任务更新\n- 恋人节 2026 （部分步骤需要手动，副本建议自行组队进入）",
     "InternalName": "Questionable",
-    "AssemblyVersion": "14.205.23.1",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.205.23.1-cn/Questionable-14.205.23.1.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.205.23.1-cn/Questionable-14.205.23.1.zip",
-    "DownloadCount": 265447,
-    "LastUpdate": "1769589205"
+    "AssemblyVersion": "14.205.27.0",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.205.27.0-cn/Questionable-14.205.27.0.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.205.27.0-cn/Questionable-14.205.27.0.zip",
+    "DownloadCount": 295841,
+    "LastUpdate": "1770461013"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
