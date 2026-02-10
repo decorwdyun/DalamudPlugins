@@ -15,13 +15,13 @@
       "招募过滤",
       "黑名单"
     ],
-    "Changelog": "修复可能的 carsh 问题",
+    "Changelog": "- Sumemo 更新",
     "DalamudApiLevel": 14,
     "LastUpdate": 1770446284,
-    "DownloadCount": 238511,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.19/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.19/latest.zip",
-    "AssemblyVersion": "1.4.0.19"
+    "DownloadCount": 246595,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.20/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.20/latest.zip",
+    "AssemblyVersion": "1.4.0.20"
   },
   {
     "Name": "Questionable",
