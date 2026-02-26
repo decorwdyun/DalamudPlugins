@@ -36,7 +36,7 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "[自动构建]\n- 同步上游近期更新\n- 恋人节 2026 支持全自动（需要使用 BossMod v0.4.21.3 以上）",
+    "Changelog": "[自动构建]\n- 女儿节 2026（Fate 需要手动完成）",
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
@@ -44,11 +44,11 @@
     "DalamudApiLevel": 14,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AssemblyVersion": "14.206.0.2",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.206.0.2-cn/Questionable-14.206.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.206.0.2-cn/Questionable-14.206.0.2.zip",
-    "DownloadCount": 325112,
-    "LastUpdate": "1770810825"
+    "AssemblyVersion": "14.206.19.2",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.206.19.2-cn/Questionable-14.206.19.2.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.206.19.2-cn/Questionable-14.206.19.2.zip",
+    "DownloadCount": 521691,
+    "LastUpdate": "1772106911"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
