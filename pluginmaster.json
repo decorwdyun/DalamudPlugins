@@ -24,7 +24,7 @@
     "AssemblyVersion": "1.4.0.20"
   },
   {
-    "Name": "Questionable",
+    "Name": "Questionable (CN)",
     "Author": "Liza Carvelli, decorwdyun(汉化), various contributor",
     "Punchline": "一个小小的的自动任务插件。",
     "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
@@ -52,7 +52,7 @@
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
-    "Name": "Satisfier",
+    "Name": "Satisfier (CN)",
     "Punchline": "自动老主顾交付（制作/采集）",
     "Description": "通过自动化流程减少老主顾交付的烦恼。\n 所需插件：vnavmesh, Artisan",
     "Tags": [
@@ -100,7 +100,7 @@
   },
   {
     "Author": "Ottermandias, decorwdyun(汉化)",
-    "Name": "Accountant",
+    "Name": "Accountant (CN)",
     "InternalName": "Accountant",
     "Punchline": "（橙月解限特供）角色任务计时器，监控雇员、飞空艇、潜水艇、以太转轮、作物成熟以及多个角色的一些杂项任务。",
     "Description": "监控雇员、飞空艇、潜水艇、以太转轮、作物成熟以及多个角色的一些杂项任务。",
@@ -131,7 +131,7 @@
     "DownloadCount": 55641
   },
   {
-    "Name": "Rotation Solver Reborn",
+    "Name": "Rotation Solver Reborn (CN)",
     "Author": "The Combat Reborn Team, decorwdyun(汉化)",
     "Punchline": "RSR 自动输出/循环（粗制滥造汉化版），逐帧分析战斗情况，并找出下一帧最适合使用的技能。",
     "Description": "逐帧分析战斗情况，并找出下一帧最适合使用的技能。\n\n这意味着几乎所有战斗中可用的信息都在一帧中，包括队伍中所有玩家的状态、任何敌对目标的状态、技能冷却时间、角色的MP/HP、角色的位置、敌对目标的施法状态、连击、战斗时长、玩家等级等。\n\n然后，它会在快捷栏上高亮显示最佳行动，或帮助你点击它。\n\n它是为“日常战斗”设计的，不适用于零式或者绝境战。请谨慎使用",
