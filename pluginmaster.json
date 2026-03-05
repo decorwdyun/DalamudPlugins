@@ -36,7 +36,7 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "[自动构建]\n- 同步上游更新(多变迷宫相关)\n- 女儿节 2026（Fate 需要手动完成）",
+    "Changelog": "[自动构建]\n- 同步上游更新(7.45多变迷宫、调查员相关)\n- 女儿节 2026（Fate 需要手动完成）",
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
@@ -44,11 +44,11 @@
     "DalamudApiLevel": 14,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AssemblyVersion": "14.206.26.1",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.206.26.1-cn/Questionable-14.206.26.1.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.206.26.1-cn/Questionable-14.206.26.1.zip",
+    "AssemblyVersion": "14.206.28.1",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.206.28.1-cn/Questionable-14.206.28.1.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.206.28.11-cn/Questionable-14.206.28.1.zip",
     "DownloadCount": 555475,
-    "LastUpdate": "1772597747"
+    "LastUpdate": "1772712403"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
