@@ -4,7 +4,7 @@
     "Name": "PFRadar",
     "InternalName": "PFRadar",
     "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
-    "Description": "CN Only! 稿子退散（爬）！\n- 新功能：招募过滤器：一键过滤开荒、伐木、老板队、固定队、装甲车招募",
+    "Description": "CN Only! 稿子退散（爬）！",
     "ApplicableVersion": "any",
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
     "Tags": [
@@ -15,13 +15,13 @@
       "招募过滤",
       "黑名单"
     ],
-    "Changelog": "- Sumemo 更新",
+    "Changelog": "- Tomestone fixes",
     "DalamudApiLevel": 14,
-    "LastUpdate": 1770446284,
-    "DownloadCount": 246595,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.20/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.20/latest.zip",
-    "AssemblyVersion": "1.4.0.20"
+    "LastUpdate": 1773293489,
+    "DownloadCount": 272110,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.21/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.4.0.21/latest.zip",
+    "AssemblyVersion": "1.4.0.21"
   },
   {
     "Name": "Questionable (CN)",
