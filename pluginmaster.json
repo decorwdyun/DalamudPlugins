@@ -44,11 +44,11 @@
     "DalamudApiLevel": 14,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AssemblyVersion": "14.206.36.0",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.206.36.0-cn/Questionable-14.206.36.0.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.206.36.0-cn/Questionable-14.206.36.0.zip",
+    "AssemblyVersion": "14.206.42.0",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/14.206.42.0-cn/Questionable-14.206.42.0.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/14.206.42.0-cn/Questionable-14.206.42.0.zip",
     "DownloadCount": 555475,
-    "LastUpdate": "1772712403"
+    "LastUpdate": "1774000807"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
