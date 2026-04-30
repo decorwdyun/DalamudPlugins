@@ -24,7 +24,6 @@ https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster.js
 | [PFRadar](https://github.com/decorwdyun/PFRadar) | 透视队员招募，无需进队 | [decorwdyun](https://github.com/decorwdyun) | √ |
 | [PFClassifier](https://github.com/decorwdyun/PFClassifier) | 高难招募分类过滤器 | [decorwdyun](https://github.com/decorwdyun) | √ |
 | [Questionable](https://github.com/decorwdyun/Questionable) | QST 一个小小的的全自动跑任务插件。 | [Liza](https://git.carvel.li/liza) | √ |
-| [RotationSolverReborn](https://github.com/decorwdyun/RotationSolverRebornCN) | RSR 自动循环/输出。 | [The Combat Reborn Team](https://github.com/FFXIV-CombatReborn) | √ |
 | [vsatisfy](https://github.com/decorwdyun/ffxiv_satisfy) | 自动老主顾交付（制作/采集）。 | [awgil](https://github.com/awgil) | √ |
 | [Accountant CN](https://github.com/decorwdyun/Accountant) | 橙月解限特供 | [Ottermandias](https://github.com/Ottermandias) | √ |
 
