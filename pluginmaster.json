@@ -87,15 +87,15 @@
       "汉化",
       "翻译"
     ],
-    "Changelog": "[自动构建]\n- 更多主库插件翻译",
+    "Changelog": "[自动构建]\n- API 15 测试版",
     "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-    "LastUpdate": "1774869442",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.9/FuckDalamudCN-2.0.0.9.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.9/FuckDalamudCN-2.0.0.9.zip",
-    "AssemblyVersion": "2.0.0.9",
-    "DownloadCount": 164514,
+    "LastUpdate": "1777515607",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.10/FuckDalamudCN-2.0.0.10.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.10/FuckDalamudCN-2.0.0.10.zip",
+    "AssemblyVersion": "2.0.0.10",
+    "DownloadCount": 185411,
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/FastDalamudCN/icon.png"
   },
   {
