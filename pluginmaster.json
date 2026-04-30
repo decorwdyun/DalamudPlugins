@@ -16,12 +16,12 @@
       "黑名单"
     ],
     "Changelog": "- API 15 Test 测试版",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LastUpdate": 1777515113,
     "DownloadCount": 295456,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.1/latest.zip",
-    "AssemblyVersion": "1.5.0.1"
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.2/latest.zip",
+    "AssemblyVersion": "1.5.0.2"
   },
   {
     "Name": "Questionable (CN)",
