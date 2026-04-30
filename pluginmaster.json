@@ -176,11 +176,11 @@
       "PFClassifier"
     ],
     "RepoUrl": "https://github.com/decorwdyun/PFClassifier",
-    "DalamudApiLevel": 14,
-    "DownloadCount": 28413,
-    "LastUpdate": 1770965861,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/v1.2.24/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/v1.2.24/latest.zip",
-    "AssemblyVersion": "1.2.24"
+    "DalamudApiLevel": 15,
+    "DownloadCount": 32412,
+    "LastUpdate": 1777517066,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFClassifier/releases/download/v1.2.25/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFClassifier/releases/download/v1.2.25/latest.zip",
+    "AssemblyVersion": "1.2.25"
   }
 ]
