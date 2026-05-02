@@ -119,16 +119,16 @@
       "Cactpot"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Accountant/main/images/icon.png",
-    "Changelog": "- API 14",
-    "DalamudApiLevel": 14,
-    "LastUpdate": "1758008532",
-    "AssemblyVersion": "1.8.2.0",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Accountant/releases/download/1.8.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Accountant/releases/download/1.8.2.0/latest.zip",
+    "Changelog": "- API 15",
+    "DalamudApiLevel": 15,
+    "LastUpdate": "1777732123",
+    "AssemblyVersion": "1.8.3.0",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Accountant/releases/download/1.8.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Accountant/releases/download/1.8.3.0/latest.zip",
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
-    "DownloadCount": 55641
+    "DownloadCount": 61521
   },
   {
     "Author": "decorwdyun",
