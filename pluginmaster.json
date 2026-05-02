@@ -64,12 +64,12 @@
     "InternalName": "vsatisfy",
     "RepoUrl": "https://github.com/awgil/ffxiv_satisfy",
     "DownloadCount": 76151,
-    "LastUpdate": "1772598237",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/ffxiv_satisfy/releases/download/0.0.0.26/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/ffxiv_satisfy/releases/download/0.0.0.26/latest.zip",
-    "AssemblyVersion": "0.0.0.26",
+    "LastUpdate": "1777732563",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/ffxiv_satisfy/releases/download/0.0.0.30/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/ffxiv_satisfy/releases/download/0.0.0.30/latest.zip",
+    "AssemblyVersion": "0.0.0.30",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "IconUrl": "https://s3.puni.sh/media/plugin/58/icon-hffi2ft0zlg.png"
   },
   {
