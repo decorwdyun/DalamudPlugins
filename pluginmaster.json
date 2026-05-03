@@ -36,7 +36,7 @@
       "自动",
       "主线任务"
     ],
-    "Changelog": "[自动构建]\n- 同步上游近期更新",
+    "Changelog": "[自动构建]\n- 同步上游近期更新\n- 修复 navmesh 兼容性问题",
     "InternalName": "Questionable",
     "RepoUrl": "https://github.com/decorwdyun/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
@@ -44,9 +44,9 @@
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AssemblyVersion": "15.277.3.0",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/15.277.3.0-cn/Questionable-15.277.3.0.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/15.277.3.0-cn/Questionable-115.277.3.0.zip",
+    "AssemblyVersion": "15.277.6.0",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/15.277.6.0-cn/Questionable-15.277.6.0.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/15.277.6.0-cn/Questionable-115.277.6.0.zip",
     "DownloadCount": 555475,
     "LastUpdate": "1777685688"
   },
