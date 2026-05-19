@@ -15,13 +15,13 @@
       "招募过滤",
       "黑名单"
     ],
-    "Changelog": "- API 15 Test 测试版",
+    "Changelog": "- party finder show more fixes\n- 修复招募板扩容\n- 上游依赖更新",
     "DalamudApiLevel": 15,
     "LastUpdate": 1777515113,
     "DownloadCount": 295456,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.3/latest.zip",
-    "AssemblyVersion": "1.5.0.3"
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.4/latest.zip",
+    "AssemblyVersion": "1.5.0.4"
   },
   {
     "Name": "Questionable (CN)",
