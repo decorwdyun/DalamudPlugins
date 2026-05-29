@@ -24,33 +24,6 @@
     "AssemblyVersion": "1.5.0.4"
   },
   {
-    "Name": "Questionable (CN)",
-    "Author": "Liza Carvelli, decorwdyun(汉化), various contributor",
-    "Punchline": "一个小小的的自动任务插件。",
-    "Description": "一个小型的任务助手插件，可以在可能的情况下自动执行任务。使用寻路自动走到所有任务目标点，并尽量自动完成所有步骤。\n\n并非所有任务都受支持，请查看Discord或Git仓库以获取最新的支持任务列表。\n\n所需插件：vnavmesh, TextAdvance, Lifestream",
-    "Tags": [
-      "qst",
-      "quests",
-      "Questionable",
-      "任务",
-      "自动",
-      "主线任务"
-    ],
-    "Changelog": "[自动构建]\n- 同步上游近期更新",
-    "InternalName": "Questionable",
-    "RepoUrl": "https://github.com/decorwdyun/Questionable",
-    "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "AssemblyVersion": "15.283.1.0",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/Questionable/releases/download/15.283.1.0-cn/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/Questionable/releases/download/15.283.1.0-cn/latest.zip",
-    "DownloadCount": 555475,
-    "LastUpdate": "1777685688"
-  },
-  {
     "Author": "veyn, decorwdyun(汉化)",
     "Name": "Satisfier (CN)",
     "Punchline": "自动老主顾交付（制作/采集）",
