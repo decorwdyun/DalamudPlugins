@@ -49,7 +49,7 @@
     "Name": "FastDalamudCN",
     "InternalName": "FuckDalamudCN",
     "Punchline": "Fast Dalamud CN 卫月第三方库（Github）加载和下载加速服务、主库插件简介翻译 原 FuckDalamudCN",
-    "Description": "- 卫月第三方库（Github）加速服务\n- 卫月主库插件简介翻译\n注：OtterCorp 维护的卫月已全面移除插件封锁相关代码、所以不再需要 Unban，如果你不再需要此插件的其他功能，可以暂时卸载了",
+    "Description": "- 卫月第三方库（Github）加速服务\n- 卫月主库插件简介翻译",
     "Tags": [
       "unban",
       "FastDalamudCN",
@@ -59,13 +59,13 @@
       "汉化",
       "翻译"
     ],
-    "Changelog": "[自动构建]\n- API 15 测试版",
+    "Changelog": "[自动构建]\n- 代理池调整 移除失效代理\n- 主库插件翻译更新",
     "RepoUrl": "https://github.com/decorwdyun/FuckDalamudCN",
-    "LastUpdate": "1777515607",
-    "DownloadLinkInstall": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.10/FuckDalamudCN-2.0.0.10.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.10/FuckDalamudCN-2.0.0.10.zip",
-    "AssemblyVersion": "2.0.0.10",
-    "DownloadCount": 185411,
+    "LastUpdate": "1795527090",
+    "DownloadLinkInstall": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.11/FuckDalamudCN-2.0.0.11.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/FuckDalamudCN/releases/download/v2.0.0.11/FuckDalamudCN-2.0.0.11.zip",
+    "AssemblyVersion": "2.0.0.11",
+    "DownloadCount": 235145,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/FastDalamudCN/icon.png"
