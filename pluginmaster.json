@@ -3,7 +3,7 @@
     "Author": "decorwdyun",
     "Name": "PFRadar",
     "InternalName": "PFRadar",
-    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询 & Sumemo 高难攻略进度查询，免费插件，请勿倒卖",
+    "Punchline": "透视队员招募 无需进队即可获取队内的成员信息，支持 FFLogs 战力查询，免费插件，请勿倒卖",
     "Description": "CN Only! 稿子退散（爬）！",
     "ApplicableVersion": "any",
     "IconUrl": "https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/PFRadar/icon.png",
@@ -15,12 +15,13 @@
       "招募过滤",
       "黑名单"
     ],
+    "Changelog": "- 新增本地玩家备注：支持右键添加备注、招募悬浮窗高亮提示及导入导出管理 / Added local player notes with right-click editing, overlay highlights, and import/export\n- 招募悬浮窗支持在好友名字前显示爱心标记（可在设置中开启） / Added an optional heart icon next to friends' names in the Party Finder overlay\n- FFLogs 设置页新增 API 剩余额度与重置倒计时显示 / Added API quota and reset countdown display in FFLogs settings\n- 「关于」页新增问题反馈按钮 / Added a feedback button in the About tab\n- 修复切换招募详情时悬浮窗闪烁或成员信息被清空的问题 / Fixed overlay flashing or clearing member info when switching listings\n- 修复 FFLogs 连接失败后无法自动恢复查询的问题 / Fixed FFLogs query recovery after connection errors",
     "DalamudApiLevel": 15,
-    "LastUpdate": 1780548289,
-    "DownloadCount": 346978,
-    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.7/latest.zip",
-    "AssemblyVersion": "1.5.0.7"
+    "LastUpdate": 1795685630,
+    "DownloadCount": 421221,
+    "DownloadLinkInstall": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/decorwdyun/PFRadar/releases/download/1.5.0.8/latest.zip",
+    "AssemblyVersion": "1.5.0.8"
   },
   {
     "Author": "veyn, decorwdyun(汉化)",
